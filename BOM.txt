@@ -1,0 +1,6 @@
+2x SST 29LE010
+1x PALCE 20V8H-25JC/4 PLCC 28 Package
+1x 74HC245A SOIC-20 Package
+3x 100 nF Capacitors 1218 package
+1x Ceramic Disc Capacitor 50V 100nF 104 Marking
+1x DB25 Parallel Port Adapter, Male
