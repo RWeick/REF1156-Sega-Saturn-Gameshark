@@ -1,3 +1,5 @@
 # REF1156-Sega-Saturn-Gameshark
-Everything necessary to produce a Gameshark for the Sega Saturn. The radial capacitor doesn't have a footprint on the board. The legs were soldered to the VCC and GND legs of the right SST eeprom.
-![REF1156](https://github.com/Modman/REF1156-Sega-Saturn-Gameshark/blob/main/REF1156.png)
+Everything necessary to produce a Gameshark for the Sega Saturn. The original PCB had a 100 nF capacitor bodged on in addition to the three SMD capacitors. I have added a 4th SMD capacitor to resolve that.
+
+PCB Thickness: 1.6 mm
+![REF1156](https://github.com/RWeick/REF1156-Sega-Saturn-Gameshark/blob/main/REF1156_Saturn.png)
